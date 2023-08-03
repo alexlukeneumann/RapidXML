@@ -1,3 +1,3 @@
-add_library( RapidXML INTERFACE )
+add_library( rapidxml INTERFACE )
 
-target_include_directories( RapidXML INTERFACE include )
+target_include_directories( rapidxml INTERFACE . )
